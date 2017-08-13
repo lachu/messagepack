@@ -1,0 +1,6 @@
+[package]
+name = "messagepack"
+version = "0.1.0"
+authors = ["lachu"]
+
+[dependencies]
